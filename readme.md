@@ -1,7 +1,7 @@
 helooooo
 # genrate ssh key
   
-ssh-keygen -t ed25519 -C "abdurashid.bigzad1999@gmail.com"
+ssh-keygen -t ed25519 -C "your email"
   
 # enter file name, password
 
